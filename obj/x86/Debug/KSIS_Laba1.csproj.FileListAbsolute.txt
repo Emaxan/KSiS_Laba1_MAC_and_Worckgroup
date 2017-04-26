@@ -1,0 +1,8 @@
+E:\Programs\VS\_KSIS\KSIS_Laba1\KSIS_Laba1\bin\x86\Debug\KSIS_Laba1.exe.config
+E:\Programs\VS\_KSIS\KSIS_Laba1\KSIS_Laba1\bin\x86\Debug\KSIS_Laba1.exe
+E:\Programs\VS\_KSIS\KSIS_Laba1\KSIS_Laba1\bin\x86\Debug\KSIS_Laba1.pdb
+E:\Programs\VS\_KSIS\KSIS_Laba1\KSIS_Laba1\bin\x86\Debug\System.Management.Automation.dll
+E:\Programs\VS\_KSIS\KSIS_Laba1\KSIS_Laba1\bin\x86\Debug\System.Net.Http.dll
+E:\Programs\VS\_KSIS\KSIS_Laba1\KSIS_Laba1\bin\x86\Debug\System.Net.Http.xml
+E:\Programs\VS\_KSIS\KSIS_Laba1\KSIS_Laba1\obj\x86\Debug\KSIS_Laba1.exe
+E:\Programs\VS\_KSIS\KSIS_Laba1\KSIS_Laba1\obj\x86\Debug\KSIS_Laba1.pdb

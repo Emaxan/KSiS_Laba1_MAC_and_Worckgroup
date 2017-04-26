@@ -1,0 +1,14 @@
+E:\Programs\VS\_KSIS\KSIS_Laba1\KSIS_Laba1\bin\x86\Release\KSIS_Laba1.exe.config
+E:\Programs\VS\_KSIS\KSIS_Laba1\KSIS_Laba1\bin\x86\Release\KSIS_Laba1.exe
+E:\Programs\VS\_KSIS\KSIS_Laba1\KSIS_Laba1\bin\x86\Release\KSIS_Laba1.pdb
+E:\Programs\VS\_KSIS\KSIS_Laba1\KSIS_Laba1\bin\x86\Release\System.Net.Http.dll
+E:\Programs\VS\_KSIS\KSIS_Laba1\KSIS_Laba1\bin\x86\Release\System.Net.Http.xml
+E:\Programs\VS\_KSIS\KSIS_Laba1\KSIS_Laba1\obj\x86\Release\KSIS_Laba1.csprojResolveAssemblyReference.cache
+E:\Programs\VS\_KSIS\KSIS_Laba1\KSIS_Laba1\obj\x86\Release\KSIS_Laba1.exe
+E:\Programs\VS\_KSIS\KSIS_Laba1\KSIS_Laba1\obj\x86\Release\KSIS_Laba1.pdb
+D:\Programs\VS\_KSIS\KSIS_Laba1\KSIS_Laba1\bin\x86\Release\KSIS_Laba1.exe.config
+D:\Programs\VS\_KSIS\KSIS_Laba1\KSIS_Laba1\bin\x86\Release\KSIS_Laba1.exe
+D:\Programs\VS\_KSIS\KSIS_Laba1\KSIS_Laba1\bin\x86\Release\KSIS_Laba1.pdb
+D:\Programs\VS\_KSIS\KSIS_Laba1\KSIS_Laba1\obj\x86\Release\KSIS_Laba1.csprojResolveAssemblyReference.cache
+D:\Programs\VS\_KSIS\KSIS_Laba1\KSIS_Laba1\obj\x86\Release\KSIS_Laba1.exe
+D:\Programs\VS\_KSIS\KSIS_Laba1\KSIS_Laba1\obj\x86\Release\KSIS_Laba1.pdb

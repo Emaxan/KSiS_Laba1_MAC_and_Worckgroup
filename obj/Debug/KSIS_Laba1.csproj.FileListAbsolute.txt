@@ -1,0 +1,7 @@
+E:\Programs\VS\_KSIS\KSIS_Laba1\KSIS_Laba1\bin\Debug\KSIS_Laba1.exe.config
+E:\Programs\VS\_KSIS\KSIS_Laba1\KSIS_Laba1\bin\Debug\KSIS_Laba1.exe
+E:\Programs\VS\_KSIS\KSIS_Laba1\KSIS_Laba1\bin\Debug\KSIS_Laba1.pdb
+E:\Programs\VS\_KSIS\KSIS_Laba1\KSIS_Laba1\bin\Debug\System.Management.Automation.dll
+E:\Programs\VS\_KSIS\KSIS_Laba1\KSIS_Laba1\obj\Debug\KSIS_Laba1.csprojResolveAssemblyReference.cache
+E:\Programs\VS\_KSIS\KSIS_Laba1\KSIS_Laba1\obj\Debug\KSIS_Laba1.exe
+E:\Programs\VS\_KSIS\KSIS_Laba1\KSIS_Laba1\obj\Debug\KSIS_Laba1.pdb
